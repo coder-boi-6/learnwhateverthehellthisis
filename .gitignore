@@ -3,3 +3,4 @@ out
 .env
 assets/
 samples/
+handler_get_thumbnail.go
